@@ -1,1 +1,4 @@
 print('Hello world')
+
+#Creating a Variable 
+x = 1
